@@ -1,2 +1,2 @@
-# my-travel-app
-MyTravelApp
+streamlit
+google-genai
